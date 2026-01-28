@@ -42,7 +42,6 @@ VALUES
     ('Die Hard', 1988, 'ACTION'),
     ('Pulp Fiction', 1994, 'CRIME'),
     ('Superbad', 2007, 'COMEDY'),
-    ('Forrest Gump', 1994, 'DRAMA')
-    ('Goodfellas', 1990, 'THRILLER');
+    ('Forrest Gump', 1994, 'DRAMA');
 
  GRANT ALL PRIVILEGES ON ALL TABLES in SCHEMA public TO movie_user;
